@@ -1,8 +1,8 @@
-# Hello everyone 👋, 
-
-## Jhonatas Matos
+# Jhonatas Matos
 [![Linkedin Badge](https://img.shields.io/badge/-JhonatasMatos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatas-santos-matos/)](https://www.linkedin.com/in/jhonatas-santos-matos/) 
 [![Gmail Badge](https://img.shields.io/badge/-jhonatas.santos.matos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhonatas.santos.matos@gmail.com)](mailto:jhonatas.santos.matos@gmail.com)
+
+## Hello everyone 👋, 
 
 I'm Jhonatas Matos.
 - :mag: I'm QA Lead (bug hunter) and Mobile development enthusiast. 
