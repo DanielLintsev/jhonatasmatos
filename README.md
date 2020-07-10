@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello everyone 👋, 
 
-<!--
-**jhowsantos/jhowsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Jhonatas Matos
+[![Linkedin Badge](https://img.shields.io/badge/-JhonatasMatos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatas-santos-matos/)](https://www.linkedin.com/in/jhonatas-santos-matos/) 
+[![Gmail Badge](https://img.shields.io/badge/-jhonatas.santos.matos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhonatas.santos.matos@gmail.com)](mailto:jhonatas.santos.matos@gmail.com)
 
-Here are some ideas to get you started:
+I'm Jhonatas Matos.
+- :mag: I'm QA Lead (bug hunter) and Mobile development enthusiast. 
+- :heart: I love technology and inovation. 
+- :video_game: Game lover specifically MMORPG. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+_**Let's code ?**_ :rocket:
