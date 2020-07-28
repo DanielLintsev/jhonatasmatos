@@ -5,9 +5,9 @@
 ## Hello everyone 👋, 
 
 I'm Jhonatas Matos.
-- :mag: I'm QA Lead (bug hunter) and Mobile development enthusiast. 
-- :heart: I love technology and inovation. 
-- :video_game: Game lover specifically MMORPG. 
+- :mag:  I'm QA Lead (bug hunter) and Mobile development enthusiast. 
+- :heart:  I love technology and inovation. 
+- :video_game:  Game lover specifically MMORPG. 
 
 
 _**Let's code ?**_ :rocket:
