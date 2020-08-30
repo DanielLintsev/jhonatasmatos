@@ -9,5 +9,12 @@ I'm Jhonatas Matos.
 - :heart:  I love technology and inovation. 
 - :video_game:  Game lover specifically MMORPG. 
 
+- 
+
 
 _**Let's code ?**_ :rocket:
+
+
+<p align="center"> 
+ <a><img src="https://github-readme-stats.vercel.app/api?username=jhonatasmatos&show_icons=true&theme=graywhite" /></a>
+</p> 
