@@ -7,17 +7,18 @@
 
 
 
-## Hey There 🤟😎, 
+## Hey There 🤟😎,
+<br />
 
-I'm Jhonatas Matos.
-You can call me Jhow  😉
+<p>You can call me Jhow  😉 </p>
 
-- 🐞🕵‍♂  I'm QA Tech Leader (bug hunter) and I love quality assurance very much
-- 📱    I'm Mobile development enthusiast and Crazy coder haha. 
-- 👨‍💻💜  I love technology and inovation / I breathe it. 
-- 🎮    Game lover specifically MMORPG.
-- 👨‍🏫    Content Creator in Youtube and Instragram about Tests, Automation Tests, Career in QA, QA days
-- 🎙    Speaker 
+
+<p>- 🐞🕵‍♂  I'm QA Tech Leader (bug hunter) and I love quality assurance very much</p>
+<p>- 📱    I'm Mobile development enthusiast and Crazy coder haha. </p>
+<p>- 👨‍💻💜  I love technology and inovation / I breathe it. </p>
+<p>- 🎮    Game lover specifically MMORPG.</p>
+<p>- 👨‍🏫    Content Creator in Youtube and Instragram about Tests, Automation Tests, Career in QA, QA days</p>
+<p>- 🎙    Speaker </p>
 
 
 
