@@ -12,7 +12,7 @@
 You can call me Jhow, Jhon or Jhony  😉
 <br>
 
-🕵‍♂ I'm QA Engineering (bug hunter)<br>
+🕵‍♂ I'm QA Engineer (bug hunter)<br>
 📱 I'm Development enthusiast and Crazy coder haha<br>
 🎮 Game lover specifically MMORPG.<br>
 👨‍🏫 Content Creator in Youtube and Instragram about Tests, Automation Tests, Career in QA, QA days<br>
